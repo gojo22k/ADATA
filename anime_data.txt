@@ -1,6 +1,6 @@
 [
     {
-        "aid": 2,
+        "aid": 1,
         "name": "Solo Leveling",
         "poster": "https://envs.sh/zZg.png\n, https://envs.sh/zZv.jpg\n, https://envs.sh/zZ9.jpg\n",
         "banner": "https://envs.sh/zZH.jpg\n, https://envs.sh/zZN.jpg\n",
@@ -22,10 +22,6 @@
             "Ore dake Level Up na Ken: How to Get Stronger",
             "Ore dake Level Up na Ken: ReAwakening",
             "Echo"
-        ],
-        "AID": 1,
-        "LET": "S",
-        "CIDs": "1248554",
-        "CNAME": "DoodStream"
+        ]
     }
 ]
