@@ -22,6 +22,10 @@
             "Ore dake Level Up na Ken: How to Get Stronger",
             "Ore dake Level Up na Ken: ReAwakening",
             "Echo"
-        ]
+        ],
+        "AID": 1,
+        "LET": "S",
+        "CIDs": "1248554",
+        "CNAME": "DoodStream"
     }
 ]
