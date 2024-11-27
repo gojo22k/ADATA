@@ -1,24 +1,5 @@
 [
     {
-        "aid": "N/A",
-        "name": "Unknown Anime",
-        "poster": "N/A",
-        "banner": "N/A",
-        "cname": "N/A",
-        "cid": "N/A",
-        "let": "N/A",
-        "trailer": "N/A",
-        "genre": "Action, Adventure, Fantasy",
-        "status": "Finished",
-        "total_episodes": 12,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Sword Art Online, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tate no Yuusha no Nariagari, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, Overlord, Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su, Tensei shitara Slime Datta Ken, Mob kara Hajimaru Tansaku Eiyuutan, Kami no Tou, Jujutsu Kaisen, Darwin's Game, The God of High School, Hametsu no Mars, Kage no Jitsuryokusha ni Naritakute!, Kumo desu ga, Nani ka?, Hai to Gensou no Grimgar, Terra Formars, Made in Abyss, 86, Kui Cheng Shoufu Cong Youxi Kaishi, World Trigger, Mahouka Koukou no Rettousei, Arifureta Shokugyou de Sekai Saikyou, Nozomanu Fushi no Boukensha, Kaijuu 8-gou, Quanzhi Fashi, Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta, Da Wang Rao Ming, Kao Ni La Zhanshen Xitong",
-        "imdb_rating": 8.3,
-        "imdb_votes": 32565,
-        "synopsis": "They say whatever doesn\u2019t kill you makes you stronger, but that\u2019s not the case for the world\u2019s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that\u2019s leveling him up in every way. Now, he\u2019s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: Crunchyroll)",
-        "ranime": "N/A"
-    },
-    {
         "aid": 2,
         "name": "Zom 100",
         "poster": "https://envs.sh/zmo.png\n, https://envs.sh/zm8.jpg\n, https://envs.sh/zmk.jpg\n",
