@@ -1,24 +1,5 @@
 [
     {
-        "aid": "N/A",
-        "name": "Unknown Anime",
-        "poster": "N/A",
-        "banner": "N/A",
-        "cname": "N/A",
-        "cid": "N/A",
-        "let": "N/A",
-        "trailer": "N/A",
-        "genre": "Action, Comedy, Horror, Suspense",
-        "status": "Finished",
-        "total_episodes": 12,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Undead Unluck, Highschool of the Dead, Gakkougurashi!, Tengoku Daimakyou, Boku no Hero Academia, Dead Dead Demons Dededede Destruction (OVA), Koutetsujou no Kabaneri, Wonder Egg Priority, Paripi Koumei, Dandadan, Bungou Stray Dogs, Asobi Asobase, Shinsekai yori, Jinrui wa Suitai Shimashita, Wuliao Jiu Wanjie",
-        "imdb_rating": 7.4,
-        "imdb_votes": 9949,
-        "synopsis": "With three years under his belt at the company from hell, Akira Tendo is mentally and physically spent. All at the ripe old age of twenty-four. Even his crush from Accounting, Saori, wants nothing to do with him. Then, just when life is beginning to look like one big disappointment, it happens. The zombie apocalypse descends on Japan! Surrounded by hordes of hungry zombies, Akira comes to a realization that will forever change his life\u2026\n\n\u201cWait, does this mean I never have to go to work again?\u201d\n\nConfess to\u2026 party like it's\u2026 travel Japan coast to\u2026\n\nNow, with his nightmare job no longer, Akira's got his mojo back. Let the bucket listing begin!!\n\n(Source: Crunchyroll)",
-        "ranime": "N/A"
-    },
-    {
         "aid": 1,
         "name": "Solo Leveling",
         "poster": "https://envs.sh/zZg.png\n, https://envs.sh/zZv.jpg\n, https://envs.sh/zZ9.jpg\n",
