@@ -57,5 +57,35 @@
         "banner": "https://envs.sh/zHa.jpg\n",
         "imdb_rating": 8.2,
         "imdb_votes": 1290
+    },
+    {
+        "AID": 3,
+        "LET": "D",
+        "NAME": "Dan Da Dan",
+        "CNAME": "DoodStream",
+        "CIDs": "1516809",
+        "kposter": "https://envs.sh/zHO.jpg\n",
+        "jposter": "https://envs.sh/zHf.jpg\n",
+        "iposter": "https://envs.sh/zHg.jpg\n",
+        "ktrailer": "https://www.youtube.com/embed/vnRmIBoyfBM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "jtrailer": "N/A",
+        "itrailer": "N/A",
+        "trailers": "https://www.youtube.com/embed/vnRmIBoyfBM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, N/A",
+        "posters": "https://envs.sh/zHO.jpg\n, https://envs.sh/zHf.jpg\n, https://envs.sh/zHg.jpg\n",
+        "banners": "https://envs.sh/zHa.jpg\n, N/A",
+        "listanime": [
+            "Dan Jihua"
+        ],
+        "synopsis": "This is a story about Momo, a high school girl who comes from a family of spirit mediums, and her classmate Okarun, an occult fanatic. After Momo rescues Okarun from being bullied, they begin talking. However, an argument ensues between them since Momo believes in ghosts but denies aliens exist, and Okarun believes in aliens but denies ghosts exist.\n\nTo prove to each other what they believe in is real, Momo goes to an abandoned hospital where a UFO has been spotted and Okarun goes to a tunnel rumored to be haunted. To their surprise, they each encounter overwhelming paranormal activities that transcend comprehension. Amid these predicaments, Momo awakens her hidden power and Okarun gains the power of a curse to overcome these new dangers! Their fateful love begins as well!?\n\nThe story of the occult battle and adolescence starts!\n\n(Source: Crunchyroll)\n\nNotes:\n- Worldwide premiere of Episode 1 before the Japanese television premiere occurred at Anime Expo July 6, 2024.\n- Episodes 1-3 titled as DAN DA DAN: FIRST ENCOUNTER was pre-screened in advance in theaters on September 13, 2024. The regular TV broadcast begins October 2024.",
+        "type": "Movie",
+        "pg_rating": "PG - Children",
+        "jbanner": "N/A",
+        "genre": "Fantasy",
+        "sanime": "No similar anime found.",
+        "status": "Current",
+        "total_episodes": 12,
+        "banner": "https://envs.sh/zHa.jpg\n",
+        "imdb_rating": 8.2,
+        "imdb_votes": 1290
     }
 ]
