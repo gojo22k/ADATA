@@ -1,6 +1,6 @@
 [
     {
-        "aid": "N/A",
+        "aid": "24",
         "name": "Unknown Anime",
         "poster": "N/A",
         "banner": "N/A",
