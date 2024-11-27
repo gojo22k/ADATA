@@ -1,13 +1,13 @@
 [
     {
-        "aid": 2,
-        "name": "Zom 100",
-        "poster": "https://envs.sh/zmo.png\n, https://envs.sh/zm8.jpg\n, https://envs.sh/zmk.jpg\n",
-        "banner": "https://envs.sh/zmJ.png\n, https://envs.sh/zm7.jpg\n",
-        "cname": "DoodStream",
-        "cid": "1517237",
-        "let": "Z",
-        "trailer": "https://www.youtube.com/embed/Rm44mpqWFIw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/S1NzUyUD6Ks?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "aid": "N/A",
+        "name": "Unknown Anime",
+        "poster": "N/A",
+        "banner": "N/A",
+        "cname": "N/A",
+        "cid": "N/A",
+        "let": "N/A",
+        "trailer": "N/A",
         "genre": "Action, Comedy, Horror, Suspense",
         "status": "Finished",
         "total_episodes": 12,
@@ -16,9 +16,31 @@
         "imdb_rating": 7.4,
         "imdb_votes": 9949,
         "synopsis": "With three years under his belt at the company from hell, Akira Tendo is mentally and physically spent. All at the ripe old age of twenty-four. Even his crush from Accounting, Saori, wants nothing to do with him. Then, just when life is beginning to look like one big disappointment, it happens. The zombie apocalypse descends on Japan! Surrounded by hordes of hungry zombies, Akira comes to a realization that will forever change his life\u2026\n\n\u201cWait, does this mean I never have to go to work again?\u201d\n\nConfess to\u2026 party like it's\u2026 travel Japan coast to\u2026\n\nNow, with his nightmare job no longer, Akira's got his mojo back. Let the bucket listing begin!!\n\n(Source: Crunchyroll)",
+        "ranime": "N/A"
+    },
+    {
+        "aid": 1,
+        "name": "Solo Leveling",
+        "poster": "https://envs.sh/zZg.png\n, https://envs.sh/zZv.jpg\n, https://envs.sh/zZ9.jpg\n",
+        "banner": "https://envs.sh/zZH.jpg\n, https://envs.sh/zZN.jpg\n",
+        "cname": "DoodStream",
+        "cid": "1248554",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/HkIKAnwLZCw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/1kQwjK4rGYg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "status": "Finished",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Sword Art Online, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tate no Yuusha no Nariagari, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, Overlord, Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su, Tensei shitara Slime Datta Ken, Mob kara Hajimaru Tansaku Eiyuutan, Kami no Tou, Jujutsu Kaisen, Darwin's Game, The God of High School, Hametsu no Mars, Kage no Jitsuryokusha ni Naritakute!, Kumo desu ga, Nani ka?, Hai to Gensou no Grimgar, Terra Formars, Made in Abyss, 86, Kui Cheng Shoufu Cong Youxi Kaishi, World Trigger, Mahouka Koukou no Rettousei, Arifureta Shokugyou de Sekai Saikyou, Nozomanu Fushi no Boukensha, Kaijuu 8-gou, Quanzhi Fashi, Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta, Da Wang Rao Ming, Kao Ni La Zhanshen Xitong",
+        "imdb_rating": 8.3,
+        "imdb_votes": 32569,
+        "synopsis": "They say whatever doesn\u2019t kill you makes you stronger, but that\u2019s not the case for the world\u2019s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that\u2019s leveling him up in every way. Now, he\u2019s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: Crunchyroll)",
         "ranime": [
-            "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto",
-            "Zom 100: Zombie ni Naru made ni Shitai 100 no Koto Recap"
+            "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+            "Solo Leveling",
+            "Ore dake Level Up na Ken: How to Get Stronger",
+            "Ore dake Level Up na Ken: ReAwakening",
+            "Echo"
         ]
     }
 ]
