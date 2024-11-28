@@ -2,7 +2,7 @@
     {
         "aid": 1,
         "name": "Dragon Ball Daima",
-        "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30c0\u30a4\u30de",
+        "jname": "\u00e3\u0083\u0089\u00e3\u0083\u00a9\u00e3\u0082\u00b4\u00e3\u0083\u00b3\u00e3\u0083\u009c\u00e3\u0083\u00bc\u00e3\u0083\u00ab \u00e3\u0083\u0080\u00e3\u0082\u00a4\u00e3\u0083\u009e",
         "poster": "https://envs.sh/3nO.jpg\n, https://envs.sh/3ng.jpg\n, https://envs.sh/3nH.jpg\n",
         "banner": "https://envs.sh/3na.jpg\n, https://envs.sh/3nf.jpg\n",
         "cname": "StreamWish",
@@ -26,7 +26,7 @@
     {
         "aid": 2,
         "name": "My Hero Academia Season 1",
-        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
+        "jname": "\u00e5\u0083\u0095\u00e3\u0081\u00ae\u00e3\u0083\u0092\u00e3\u0083\u00bc\u00e3\u0083\u00ad\u00e3\u0083\u00bc\u00e3\u0082\u00a2\u00e3\u0082\u00ab\u00e3\u0083\u0087\u00e3\u0083\u009f\u00e3\u0082\u00a2",
         "poster": "https://envs.sh/3Sn.jpg\n, https://envs.sh/3SW.jpg\n, https://envs.sh/3SS.jpg\n",
         "banner": "https://envs.sh/3SI.jpg\n, https://envs.sh/3SB.jpg\n",
         "cname": "StreamWish",
