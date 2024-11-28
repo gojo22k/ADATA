@@ -1,57 +1,5 @@
 [
     {
-        "aid": 1,
-        "name": "Dragon Ball Daima",
-        "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30c0\u30a4\u30de",
-        "poster": "https://envs.sh/3nO.jpg\n, https://envs.sh/3ng.jpg\n, https://envs.sh/3nH.jpg\n",
-        "banner": "https://envs.sh/3na.jpg\n, https://envs.sh/3nf.jpg\n",
-        "cname": "StreamWish",
-        "cid": "73507",
-        "let": "D",
-        "trailer": "https://www.youtube.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Adventure, Comedy, Fantasy",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "total_episodes": "N/A",
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 8.1,
-        "imdb_votes": 3544,
-        "synopsis": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Dragon Ball"
-        ]
-    },
-    {
-        "aid": 2,
-        "name": "My Hero Academia Season 1",
-        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
-        "poster": "https://envs.sh/3Sn.jpg\n, https://envs.sh/3SW.jpg\n, https://envs.sh/3SS.jpg\n",
-        "banner": "https://envs.sh/3SI.jpg\n, https://envs.sh/3SB.jpg\n",
-        "cname": "StreamWish",
-        "cid": "85909",
-        "let": "M",
-        "trailer": "https://www.youtube.com/embed/JezE6iZUWxo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/HoIOW6no_Ew?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action",
-        "type": "TV",
-        "status": "Current",
-        "airing": true,
-        "total_episodes": 25,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Naruto, Ansatsu Kyoushitsu 2nd Season, One Punch Man, Ansatsu Kyoushitsu, Fairy Tail, Black Clover, Hunter x Hunter (2011), One Punch Man 2nd Season, World Trigger, Ueki no Housoku, Deatte 5-byou de Battle, Mairimashita! Iruma-kun, Made in Abyss, The God of High School, Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou, Pokemon, Haikyuu!!, Baby Steps, Katekyou Hitman Reborn!, Shokugeki no Souma: Ni no Sara, Dragon Ball, Concrete Revolutio: Choujin Gensou - The Last Song, Shokugeki no Souma, Boruto: Naruto Next Generations, Tu Bian Ying Xiong Leaf, Little Witch Academia (TV)",
-        "imdb_rating": 8.2,
-        "imdb_votes": 86376,
-        "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Hero Note",
-            "Boku no Hero Academia 3rd Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Training of the Dead"
-        ]
-    },
-    {
         "aid": 4,
         "name": "Solo Leveling",
         "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6",
