@@ -40,7 +40,7 @@
         "genre": "Action, Adventure, Fantasy",
         "type": "TV",
         "status": "Finished",
-        "airing": false,
+        "airing": true,
         "total_episodes": 12,
         "pg_rating": "R - 17+ (violence & profanity)",
         "sanime": "Sword Art Online, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tate no Yuusha no Nariagari, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, Overlord, Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su, Tensei shitara Slime Datta Ken, Mob kara Hajimaru Tansaku Eiyuutan, Kami no Tou, Jujutsu Kaisen, Darwin's Game, The God of High School, Hametsu no Mars, Kage no Jitsuryokusha ni Naritakute!, Kumo desu ga, Nani ka?, Hai to Gensou no Grimgar, Terra Formars, Made in Abyss, 86, Kui Cheng Shoufu Cong Youxi Kaishi, World Trigger, Mahouka Koukou no Rettousei, Arifureta Shokugyou de Sekai Saikyou, Nozomanu Fushi no Boukensha, Kaijuu 8-gou, Quanzhi Fashi, Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta, Da Wang Rao Ming, Kao Ni La Zhanshen Xitong",
