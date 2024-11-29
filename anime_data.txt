@@ -28,14 +28,14 @@
         ]
     },
     {
-        "aid": "N/A",
+        "aid": 2,
         "name": "Solo Leveling",
         "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6",
         "poster": "https://envs.sh/zZg.png\n, https://envs.sh/zZv.jpg\n, https://envs.sh/zZ9.jpg\n",
         "banner": "https://envs.sh/zZH.jpg\n, https://envs.sh/zZN.jpg\n",
-        "cname": "N/A",
-        "cid": "N/A",
-        "let": "N/A",
+        "cname": "DoodStream",
+        "cid": "1248554",
+        "let": "S",
         "trailer": "https://www.youtube.com/embed/HkIKAnwLZCw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/1kQwjK4rGYg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
         "genre": "Action, Adventure, Fantasy",
         "type": "TV",
