@@ -3,8 +3,15 @@
         "aid": 3,
         "name": "Demon Slayer",
         "jname": "\u9b3c\u6ec5\u306e\u5203",
-        "poster": "https://envs.sh/30y.jpg\n, https://envs.sh/30m.jpg\n, https://envs.sh/30a.jpg\n",
-        "banner": "https://envs.sh/30X.jpg\n, https://envs.sh/30M.jpg\n",
+        "poster": [
+            "https://envs.sh/30y.jpg",
+            "https://envs.sh/30m.jpg",
+            "https://envs.sh/30a.jpg"
+        ],
+        "banner": [
+            "https://envs.sh/30X.jpg",
+            "https://envs.sh/30M.jpg"
+        ],
         "cname": "DoodStream",
         "cid": "1517716",
         "let": "D",
@@ -31,6 +38,41 @@
         "aid": "23",
         "name": "Solo Leveling",
         "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6",
+        "poster": [
+            "https://envs.sh/zZg.png",
+            "https://envs.sh/zZv.jpg",
+            "https://envs.sh/zZ9.jpg"
+        ],
+        "banner": [
+            "https://envs.sh/zZH.jpg",
+            "https://envs.sh/zZN.jpg"
+        ],
+        "cname": null,
+        "cid": null,
+        "let": null,
+        "trailer": "https://www.youtube.com/embed/HkIKAnwLZCw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/1kQwjK4rGYg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": true,
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Sword Art Online, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tate no Yuusha no Nariagari, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, Overlord, Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su, Tensei shitara Slime Datta Ken, Mob kara Hajimaru Tansaku Eiyuutan, Kami no Tou, Jujutsu Kaisen, Darwin's Game, The God of High School, Hametsu no Mars, Kage no Jitsuryokusha ni Naritakute!, Kumo desu ga, Nani ka?, Hai to Gensou no Grimgar, Terra Formars, Made in Abyss, 86, Kui Cheng Shoufu Cong Youxi Kaishi, World Trigger, Mahouka Koukou no Rettousei, Arifureta Shokugyou de Sekai Saikyou, Nozomanu Fushi no Boukensha, Kaijuu 8-gou, Quanzhi Fashi, Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta, Da Wang Rao Ming, Kao Ni La Zhanshen Xitong",
+        "imdb_rating": 8.3,
+        "imdb_votes": 32650,
+        "synopsis": "They say whatever doesn\u2019t kill you makes you stronger, but that\u2019s not the case for the world\u2019s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that\u2019s leveling him up in every way. Now, he\u2019s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+            "Solo Leveling",
+            "Ore dake Level Up na Ken: How to Get Stronger",
+            "Ore dake Level Up na Ken: ReAwakening",
+            "Echo"
+        ]
+    },
+    {
+        "aid": "N/A",
+        "name": "Solo Leveling",
+        "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6",
         "poster": "https://envs.sh/zZg.png\n, https://envs.sh/zZv.jpg\n, https://envs.sh/zZ9.jpg\n",
         "banner": "https://envs.sh/zZH.jpg\n, https://envs.sh/zZN.jpg\n",
         "cname": "N/A",
@@ -40,7 +82,7 @@
         "genre": "Action, Adventure, Fantasy",
         "type": "TV",
         "status": "Finished",
-        "airing": true,
+        "airing": false,
         "total_episodes": 12,
         "pg_rating": "R - 17+ (violence & profanity)",
         "sanime": "Sword Art Online, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tate no Yuusha no Nariagari, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, Overlord, Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su, Tensei shitara Slime Datta Ken, Mob kara Hajimaru Tansaku Eiyuutan, Kami no Tou, Jujutsu Kaisen, Darwin's Game, The God of High School, Hametsu no Mars, Kage no Jitsuryokusha ni Naritakute!, Kumo desu ga, Nani ka?, Hai to Gensou no Grimgar, Terra Formars, Made in Abyss, 86, Kui Cheng Shoufu Cong Youxi Kaishi, World Trigger, Mahouka Koukou no Rettousei, Arifureta Shokugyou de Sekai Saikyou, Nozomanu Fushi no Boukensha, Kaijuu 8-gou, Quanzhi Fashi, Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta, Da Wang Rao Ming, Kao Ni La Zhanshen Xitong",
