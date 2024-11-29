@@ -1,6 +1,6 @@
 [
     {
-        "aid": 1,
+        "aid": 4,
         "name": "Demon Slayer",
         "jname": "\u9b3c\u6ec5\u306e\u5203",
         "poster": "https://envs.sh/30y.jpg\n, https://envs.sh/30m.jpg\n, https://envs.sh/30a.jpg\n",
@@ -17,7 +17,7 @@
         "pg_rating": "R - 17+ (violence & profanity)",
         "sanime": "Jujutsu Kaisen, Dororo, Bleach, Shingeki no Kyojin, Fullmetal Alchemist: Brotherhood, Boku no Hero Academia, Hunter x Hunter (2011), InuYasha, Ao no Exorcist, Owari no Seraph, Tokyo Ghoul, Enen no Shouboutai, Claymore, Yakusoku no Neverland, D.Gray-man, JoJo no Kimyou na Bouken (TV), Chainsaw Man, Jigokuraku, Akame ga Kill!, Fate/stay night: Unlimited Blade Works, Naruto: Shippuuden, Black Clover, Wu Shan Wu Xing (2020), Kemono Jihen, Natsume Yuujinchou, Nanatsu no Taizai, Bleach: Sennen Kessen-hen, Naruto, Donten ni Warau, Vinland Saga, One Punch Man, Jibaku Shounen Hanako-kun, Fullmetal Alchemist, Sirius, Seirei no Moribito, Goblin Slayer, Jouran: The Princess of Snow and Blood, Bungou Stray Dogs, Mo Dao Zu Shi, Noragami, World Trigger, Shingeki no Kyojin: The Final Season, Chrno Crusade, Koutetsujou no Kabaneri, Blood+, Blood Lad, Tengoku Daimakyou, Mononoke Hime, Sword Art Online: Alicization, Hataraku Maou-sama!, Sengoku Youko: Yonaoshi Kyoudai-hen, Somali to Mori no Kamisama, Yuri!!! on Ice, Kill la Kill, Dragon Ball Z, Hikari no Ou, Guren, Katsugeki/Touken Ranbu, Sousou no Frieren, Enen no Shouboutai: Ni no Shou, The Samurai, Yi Nian Yong Heng, Shy, Yakusoku no Neverland 2nd Season, Berserk, Date A Live, Xin Shen Bang: Nezha Chongsheng, JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai, Taimanin Asagi, Yasuke, Tales of Symphonia The Animation: Tethe'alla-hen, Code Geass: Hangyaku no Lelouch, Mahouka Koukou no Rettousei, Sousei no Onmyouji, Lupin the IIIrd: Chikemuri no Ishikawa Goemon, Ragna Crimson, Hellsing Ultimate, Ajin, Dandadan, Peace Maker Kurogane, Death Note, Fruits Basket 1st Season, Garo: Honoo no Kokuin, Reikenzan: Hoshikuzu-tachi no Utage, Soul Eater, Tensei shitara Slime Datta Ken, Echo, Assassins Pride, Mushishi, Katanagatari, Akatsuki no Yona, The God of High School, Nurarihyon no Mago: Sennen Makyou, Tengen Toppa Gurren Lagann, Shijou Saikyou no Deshi Kenichi, Yuu\u2606Yuu\u2606Hakusho, Angel Beats!, Sword Art Online, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Mob Psycho 100",
         "imdb_rating": 8.6,
-        "imdb_votes": 171434,
+        "imdb_votes": 171444,
         "synopsis": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a \u201cdemon slayer\u201d so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
@@ -25,62 +25,6 @@
             "Kimetsu no Yaiba",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Kimetsu no Utage Tokubetsu-hen",
             "Chuukou Ikkan!! Kimetsu Gakuen Monogatari: Valentine-hen"
-        ]
-    },
-    {
-        "aid": 5,
-        "name": "Solo Leveling",
-        "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6",
-        "poster": "https://envs.sh/zZg.png\n, https://envs.sh/zZv.jpg\n, https://envs.sh/zZ9.jpg\n",
-        "banner": "https://envs.sh/zZH.jpg\n, https://envs.sh/zZN.jpg\n",
-        "cname": "DoodStream",
-        "cid": "1248554",
-        "let": "S",
-        "trailer": "https://www.youtube.com/embed/HkIKAnwLZCw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/1kQwjK4rGYg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Adventure, Fantasy",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "total_episodes": 12,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Sword Art Online, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tate no Yuusha no Nariagari, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, Overlord, Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su, Tensei shitara Slime Datta Ken, Mob kara Hajimaru Tansaku Eiyuutan, Kami no Tou, Jujutsu Kaisen, Darwin's Game, The God of High School, Hametsu no Mars, Kage no Jitsuryokusha ni Naritakute!, Kumo desu ga, Nani ka?, Hai to Gensou no Grimgar, Terra Formars, Made in Abyss, 86, Kui Cheng Shoufu Cong Youxi Kaishi, World Trigger, Mahouka Koukou no Rettousei, Arifureta Shokugyou de Sekai Saikyou, Nozomanu Fushi no Boukensha, Kaijuu 8-gou, Quanzhi Fashi, Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta, Da Wang Rao Ming, Kao Ni La Zhanshen Xitong",
-        "imdb_rating": 8.3,
-        "imdb_votes": 32650,
-        "synopsis": "They say whatever doesn\u2019t kill you makes you stronger, but that\u2019s not the case for the world\u2019s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that\u2019s leveling him up in every way. Now, he\u2019s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
-            "Solo Leveling",
-            "Ore dake Level Up na Ken: How to Get Stronger",
-            "Ore dake Level Up na Ken: ReAwakening",
-            "Echo"
-        ]
-    },
-    {
-        "aid": 3,
-        "name": "My Hero Academia Season 1",
-        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
-        "poster": "https://envs.sh/3Sn.jpg\n, https://envs.sh/3SW.jpg\n, https://envs.sh/3SS.jpg\n",
-        "banner": "https://envs.sh/3SI.jpg\n, https://envs.sh/3SB.jpg\n",
-        "cname": "VidHide",
-        "cid": "35154",
-        "let": "M",
-        "trailer": "https://www.youtube.com/embed/JezE6iZUWxo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/HoIOW6no_Ew?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "total_episodes": 25,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Naruto, Ansatsu Kyoushitsu 2nd Season, One Punch Man, Ansatsu Kyoushitsu, Fairy Tail, Black Clover, Hunter x Hunter (2011), One Punch Man 2nd Season, World Trigger, Ueki no Housoku, Deatte 5-byou de Battle, Mairimashita! Iruma-kun, Made in Abyss, The God of High School, Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou, Pokemon, Haikyuu!!, Baby Steps, Katekyou Hitman Reborn!, Shokugeki no Souma: Ni no Sara, Dragon Ball, Concrete Revolutio: Choujin Gensou - The Last Song, Shokugeki no Souma, Boruto: Naruto Next Generations, Tu Bian Ying Xiong Leaf, Little Witch Academia (TV)",
-        "imdb_rating": 8.2,
-        "imdb_votes": 86395,
-        "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Hero Note",
-            "Boku no Hero Academia 3rd Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Training of the Dead"
         ]
     },
     {
@@ -117,6 +61,34 @@
         ]
     },
     {
+        "aid": 3,
+        "name": "My Hero Academia Season 1",
+        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
+        "poster": "https://envs.sh/3Sn.jpg\n, https://envs.sh/3SW.jpg\n, https://envs.sh/3SS.jpg\n",
+        "banner": "https://envs.sh/3SI.jpg\n, https://envs.sh/3SB.jpg\n",
+        "cname": "VidHide",
+        "cid": "35154",
+        "let": "M",
+        "trailer": "https://www.youtube.com/embed/JezE6iZUWxo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/HoIOW6no_Ew?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "total_episodes": 25,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Naruto, Ansatsu Kyoushitsu 2nd Season, One Punch Man, Ansatsu Kyoushitsu, Fairy Tail, Black Clover, Hunter x Hunter (2011), One Punch Man 2nd Season, World Trigger, Ueki no Housoku, Deatte 5-byou de Battle, Mairimashita! Iruma-kun, Made in Abyss, The God of High School, Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou, Pokemon, Haikyuu!!, Baby Steps, Katekyou Hitman Reborn!, Shokugeki no Souma: Ni no Sara, Dragon Ball, Concrete Revolutio: Choujin Gensou - The Last Song, Shokugeki no Souma, Boruto: Naruto Next Generations, Tu Bian Ying Xiong Leaf, Little Witch Academia (TV)",
+        "imdb_rating": 8.2,
+        "imdb_votes": 86395,
+        "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Boku no Hero Academia",
+            "Boku no Hero Academia: Hero Note",
+            "Boku no Hero Academia 3rd Season",
+            "Boku no Hero Academia",
+            "Boku no Hero Academia: Training of the Dead"
+        ]
+    },
+    {
         "aid": 1,
         "name": "Naruto",
         "jname": "\u30ca\u30eb\u30c8",
@@ -134,7 +106,7 @@
         "pg_rating": "PG-13 - Teens 13 or older",
         "sanime": "Black Clover, One Piece, Hunter x Hunter (2011), Bleach, Fairy Tail, Jujutsu Kaisen, Boku no Hero Academia, Hunter x Hunter, Nabari no Ou, Ao no Exorcist, Soul Eater, Dragon Ball, Katekyou Hitman Reborn!, Dragon Ball Z, Rekka no Honoo, Shijou Saikyou no Deshi Kenichi, Yuu\u2606Yuu\u2606Hakusho, D.Gray-man, InuYasha, Densetsu no Yuusha no Densetsu, Boku no Hero Academia 2nd Season, Fullmetal Alchemist, Katanagatari, Kimetsu no Yaiba, Boruto: Naruto Next Generations, Haikyuu!!, World Trigger, Basilisk: Kouga Ninpou Chou, Saint Seiya, Pokemon, Slam Dunk, 07-Ghost, Yu\u2606Gi\u2606Oh! Duel Monsters GX, Shingeki no Kyojin, Donten ni Warau, Persona 5 the Animation, Fullmetal Alchemist: Brotherhood, Yu\u2606Gi\u2606Oh! Duel Monsters, The God of High School, Diamond no Ace, Gensoumaden Saiyuuki, Enen no Shouboutai, Ninkuu, Qin Shi Mingyue: Bai Bu Fei Jian, M\u00c4R, Koukyoushihen Eureka Seven, Kingdom, Dragon Ball Kai, Ueki no Housoku, Mawaru Penguindrum, Kill la Kill, Saiyuuki Reload, FLCL, Manga Sarutobi Sasuke, Saiyuuki Reload Blast, Dororo, Radiant, Medarot, Garo: Honoo no Kokuin, Shinseiki Evangelion, Cowboy Bebop, Tate no Yuusha no Nariagari, Deltora Quest, Captain Tsubasa, Dragon Ball Super, Peace Maker Kurogane, Elfen Lied, Hikaru no Go, Fruits Basket 1st Season, Rakudai Kishi no Cavalry, Jigokuraku, Ushio to Tora (TV), Bleach: Sennen Kessen-hen, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tokyo Ghoul, Black Fox, Nanatsu no Taizai, Ou Dorobou Jing, Clannad, Ninkuu: Knife no Bohyou, Kekkaishi, s.CRY.ed, JoJo no Kimyou na Bouken (TV), Higurashi no Naku Koro ni, Gunjou no Magmell, Rainbow: Nisha Rokubou no Shichinin, Zero no Tsukaima, Kyou kara Ore wa!!, Yu\u2606Gi\u2606Oh! Zexal, Mushishi, Free!, Kakutou Ryouri Densetsu Bistro Recipe, Kami no Tou, D.N.Angel, Afro Samurai, Break Blade Movie 1: Kakusei no Toki, Shaman King, Ga-Rei: Zero, .hack//Roots, Inazuma Eleven, Blue Dragon, Youma, Ranma \u00bd, Sengoku Kitan Youtouden Movie, Gintama, Himawari!!, Claymore, Ginga Nagareboshi Gin, Nintama Rantarou, Shingeki no Kyojin Picture Drama, Mutsu Enmei Ryuu Gaiden: Shura no Toki, Black\u2605Rock Shooter (OVA), Kuusen Madoushi Kouhosei no Kyoukan, Fairy Tail (2014), Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen, Kyoukai no Kanata, Sword Art Online, Tengen Toppa Gurren Lagann, Metal Fight Beyblade, Boku no Hero Academia 3rd Season, Kyoukai no Kanata: Shinonome, Iron Man, Tiger & Bunny, Ballroom e Youkoso",
         "imdb_rating": 8.4,
-        "imdb_votes": 137526,
+        "imdb_votes": 137530,
         "synopsis": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.\n\nAlthough Naruto is older and sinister events loom on the horizon, he has changed little in personality\u2014still rambunctious and childish\u2014though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.\n\n(Source: MAL Rewrite)",
         "ranime": [
             "Naruto: Shippuuden",
@@ -148,6 +120,34 @@
             "Naruto: The Cross Roads",
             "Road of Naruto",
             "Naruto (Shinsaku Anime)"
+        ]
+    },
+    {
+        "aid": 5,
+        "name": "Solo Leveling",
+        "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6",
+        "poster": "https://envs.sh/zZg.png\n, https://envs.sh/zZv.jpg\n, https://envs.sh/zZ9.jpg\n",
+        "banner": "https://envs.sh/zZH.jpg\n, https://envs.sh/zZN.jpg\n",
+        "cname": "DoodStream",
+        "cid": "1248554",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/HkIKAnwLZCw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/1kQwjK4rGYg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Sword Art Online, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tate no Yuusha no Nariagari, Gate: Jieitai Kanochi nite, Kaku Tatakaeri, Overlord, Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su, Tensei shitara Slime Datta Ken, Mob kara Hajimaru Tansaku Eiyuutan, Kami no Tou, Jujutsu Kaisen, Darwin's Game, The God of High School, Hametsu no Mars, Kage no Jitsuryokusha ni Naritakute!, Kumo desu ga, Nani ka?, Hai to Gensou no Grimgar, Terra Formars, Made in Abyss, 86, Kui Cheng Shoufu Cong Youxi Kaishi, World Trigger, Mahouka Koukou no Rettousei, Arifureta Shokugyou de Sekai Saikyou, Nozomanu Fushi no Boukensha, Kaijuu 8-gou, Quanzhi Fashi, Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta, Da Wang Rao Ming, Kao Ni La Zhanshen Xitong",
+        "imdb_rating": 8.3,
+        "imdb_votes": 32654,
+        "synopsis": "They say whatever doesn\u2019t kill you makes you stronger, but that\u2019s not the case for the world\u2019s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that\u2019s leveling him up in every way. Now, he\u2019s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+            "Solo Leveling",
+            "Ore dake Level Up na Ken: How to Get Stronger",
+            "Ore dake Level Up na Ken: ReAwakening",
+            "Echo"
         ]
     }
 ]
