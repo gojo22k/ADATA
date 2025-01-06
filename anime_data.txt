@@ -13,7 +13,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": false,
-        "studio": "Toei Animation",
+        "studio": false,
         "producers": "Yomiko Advertising, Fuji TV",
         "total_episodes": 131,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -35,36 +35,6 @@
         ]
     },
     {
-        "aid": 3,
-        "name": "My Hero Academia Season 1",
-        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
-        "poster": "https://envs.sh/3Sn.jpg\n, https://envs.sh/3SW.jpg\n, https://envs.sh/3SS.jpg\n",
-        "banner": "https://envs.sh/3SI.jpg\n, https://envs.sh/3SB.jpg\n",
-        "cname": "VidHide",
-        "cid": "35154",
-        "let": "M",
-        "trailer": "https://www.youtube.com/embed/JezE6iZUWxo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/HoIOW6no_Ew?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": "Bones",
-        "producers": "Dentsu, Yomiuri Telecasting, Movic, Sony Music Entertainment, TOHO animation, Shueisha",
-        "total_episodes": 25,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Naruto, Ansatsu Kyoushitsu 2nd Season, One Punch Man, Ansatsu Kyoushitsu, Fairy Tail, Black Clover, Hunter x Hunter (2011), One Punch Man 2nd Season, World Trigger, Ueki no Housoku, Deatte 5-byou de Battle, Mairimashita! Iruma-kun, Made in Abyss, The God of High School, Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou, Pokemon, Haikyuu!!, Baby Steps, Katekyou Hitman Reborn!, Shokugeki no Souma: Ni no Sara, Dragon Ball, Concrete Revolutio: Choujin Gensou - The Last Song, Shokugeki no Souma, Boruto: Naruto Next Generations, Tu Bian Ying Xiong Leaf, Little Witch Academia (TV)",
-        "imdb_rating": 8.2,
-        "imdb_votes": 87574,
-        "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Hero Note",
-            "Boku no Hero Academia 3rd Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Training of the Dead"
-        ]
-    },
-    {
         "aid": 1,
         "name": "Naruto",
         "jname": "\u30ca\u30eb\u30c8",
@@ -78,7 +48,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": false,
-        "studio": "Pierrot",
+        "studio": false,
         "producers": "TV Tokyo, Aniplex, Shueisha",
         "total_episodes": 500,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -98,6 +68,33 @@
             "Naruto: The Cross Roads",
             "Road of Naruto",
             "Naruto (Shinsaku Anime)"
+        ]
+    },
+    {
+        "aid": 3,
+        "name": "Solo Leveling Season 2",
+        "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Season 2 -Arise from the Shadow-",
+        "poster": "https://envs.sh/rUo.jpg\n, https://envs.sh/slB.jpg\n, https://envs.sh/zZ9.jpg\n",
+        "banner": "https://envs.sh/rUJ.jpg\n, https://envs.sh/rU7.jpg\n",
+        "cname": "VidHide",
+        "cid": "84686",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/byJ7pxxhaDY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/DYTZbJ2Y4Yk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": true,
+        "studio": "A-1 Pictures",
+        "producers": "Aniplex, Crunchyroll, Sonilude, Netmarble, Kakao piccoma, D&C Media",
+        "total_episodes": 12,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Ore dake Level Up na Ken",
+        "imdb_rating": 8.3,
+        "imdb_votes": 36021,
+        "synopsis": "The second season of Solo Leveling.",
+        "ranime": [
+            "Ore dake Level Up na Ken",
+            "Solo Leveling"
         ]
     }
 ]
