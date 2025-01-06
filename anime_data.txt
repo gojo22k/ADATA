@@ -84,7 +84,7 @@
         "type": "TV",
         "status": "Current",
         "airing": true,
-        "studio": "A-1 Pictures",
+        "studio": true,
         "producers": "Aniplex, Crunchyroll, Sonilude, Netmarble, Kakao piccoma, D&C Media",
         "total_episodes": 12,
         "pg_rating": "R - 17+ (violence & profanity)",
@@ -95,6 +95,35 @@
         "ranime": [
             "Ore dake Level Up na Ken",
             "Solo Leveling"
+        ]
+    },
+    {
+        "aid": 3,
+        "name": "Apothecary Diaries",
+        "jname": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068 \u7b2c2\u671f",
+        "poster": "https://envs.sh/Y1n.jpg\n, https://envs.sh/slj.jpg\n, https://envs.sh/Y10.jpg\n",
+        "banner": "https://envs.sh/Y1I.jpg\n, https://envs.sh/slc.jpg\n",
+        "cname": "VidHide",
+        "cid": "84691",
+        "let": "A",
+        "trailer": "https://www.youtube.com/embed/oyHqh8ue4zw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/3BYutu3Pf_0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Drama, Mystery",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": "OLM, TOHO animation STUDIO",
+        "producers": "TOHO animation",
+        "total_episodes": 24,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.6,
+        "imdb_votes": 9259,
+        "synopsis": "Maomao lived a peaceful life with her apothecary father. Until one day, she\u2019s sold as a lowly servant to the emperor\u2019s palace. But she wasn\u2019t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she\u2019s making a name for herself solving medical mysteries!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Kusuriya no Hitorigoto",
+            "Kusuriya no Hitorigoto",
+            "Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou",
+            "Kusuriya no Hitorigoto"
         ]
     }
 ]
