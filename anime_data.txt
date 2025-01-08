@@ -72,33 +72,6 @@
     },
     {
         "aid": 3,
-        "name": "Solo Leveling Season 2",
-        "jname": "\u4ffa\u3060\u3051\u30ec\u30d9\u30eb\u30a2\u30c3\u30d7\u306a\u4ef6 Season 2 -Arise from the Shadow-",
-        "poster": "https://envs.sh/rUo.jpg\n, https://envs.sh/slB.jpg\n, https://envs.sh/zZ9.jpg\n",
-        "banner": "https://envs.sh/rUJ.jpg\n, https://envs.sh/rU7.jpg\n",
-        "cname": "VidHide",
-        "cid": "84686",
-        "let": "S",
-        "trailer": "https://www.youtube.com/embed/byJ7pxxhaDY?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/DYTZbJ2Y4Yk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Adventure, Fantasy",
-        "type": "TV",
-        "status": "Current",
-        "airing": true,
-        "studio": true,
-        "producers": "Aniplex, Crunchyroll, Sonilude, Netmarble, Kakao piccoma, D&C Media",
-        "total_episodes": 12,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Ore dake Level Up na Ken",
-        "imdb_rating": 8.3,
-        "imdb_votes": 36021,
-        "synopsis": "The second season of Solo Leveling.",
-        "ranime": [
-            "Ore dake Level Up na Ken",
-            "Solo Leveling"
-        ]
-    },
-    {
-        "aid": 3,
         "name": "Suzume No Tojimari",
         "jname": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
         "poster": "https://envs.sh/YRN.jpg\n, https://envs.sh/YRs.jpg\n, https://envs.sh/YRr.jpg\n",
@@ -123,34 +96,6 @@
             "Shousetsu Suzume no Tojimari",
             "Suzume no Tojimari",
             "Big Mac to, Susume"
-        ]
-    },
-    {
-        "aid": 5,
-        "name": "Spy X Family",
-        "jname": "SPY\u00d7FAMILY",
-        "poster": "https://envs.sh/zLB.jpg\n, https://envs.sh/zL0.jpg\n, https://envs.sh/zLq.jpg\n",
-        "banner": "https://envs.sh/zLW.jpg\n, https://envs.sh/zLS.jpg\n",
-        "cname": "VidHide",
-        "cid": "85198",
-        "let": "S",
-        "trailer": "https://www.youtube.com/embed/ofXigq9aIpo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/ofXigq9aIpo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Award Winning, Comedy",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "TV Tokyo, Shogakukan-Shueisha Productions, TOHO animation, Shueisha",
-        "total_episodes": 12,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Buddy Daddies, Hinamatsuri, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Kumichou Musume to Sewagakari, Princess Principal, Full Metal Panic!, Kobayashi-san Chi no Maid Dragon, Fugou Keiji: Balance:Unlimited, Great Pretender, Usagi Drop, Kimi wa Meido-sama., Kakushigoto, Saiki Kusuo no \u03a8-nan, 4-nin wa Sorezore Uso wo Tsuku, Gakuen Babysitters, Noir, Yozakura-san Chi no Daisakusen, Cowboy Bebop, Amaama to Inazuma, Gokushufudou, Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai., Kotarou wa Hitorigurashi, Barakamon, Yahari Ore no Seishun Love Comedy wa Machigatteiru., Kotoura-san, Hunter x Hunter (2011), Violet Evergarden, Kanojo, Okarishimasu, Katekyou Hitman Reborn!, Koi to Yobu ni wa Kimochi Warui, Gintama, Koroshi Ai, Aishiteruze Baby\u2605\u2605, Hataraku Maou-sama!!, Lycoris Recoil, Vivy: Fluorite Eye's Song, Release the Spyce, Kodomo no Omocha (TV), Keroro Gunsou, 3-gatsu no Lion, Migi to Dali, Kekkon suru tte, Hontou desu ka, Maoujou de Oyasumi, Howl no Ugoku Shiro, Jitsu wa Ore, Saikyou deshita?, Bao Mu, Hakata Tonkotsu Ramens, Monster, Tonikaku Kawaii, R.O.D: Read or Die, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Gakuen Alice, Hataraku Maou-sama!, Mad\u2605Bull 34, Lupin III (2015), Baccano!, Subarashiki Kono Sekai The Animation, Joker Game",
-        "imdb_rating": 8.3,
-        "imdb_votes": 46175,
-        "synopsis": "Everyone has a part of themselves they cannot show to anyone else.\n\nAt a time when all nations of the world were involved in a fierce war of information happening behind closed doors, Ostania and Westalis had been in a state of cold war against one another for decades. The Westalis Intelligence Services' Eastern-Focused Division (WISE) sends their most talented spy, \"Twilight,\" on a top-secret mission to investigate the movements of Donovan Desmond, the chairman of Ostania's National Unity Party, who is threatening peace efforts between the two nations.\n\nThis mission is known as \"Operation Strix.\" It consists of \"putting together a family in one week in order to infiltrate social gatherings organized by the elite school that Desmond's son attends.\"\n\n\"Twilight\" takes on the identity of psychiatrist Loid Forger and starts looking for family members. But Anya, the daughter he adopts, turns out to have the ability to read people's minds, while his wife, Yor, is an assassin! With it being in each of their own interests to keep these facts hidden, they start living together while concealing their true identities from one another.\nWorld peace is now in the hands of this brand-new family as they embark on an adventure full of surprises.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Spy x Family Part 2",
-            "Spy x Family",
-            "Good Day"
         ]
     },
     {
@@ -222,7 +167,7 @@
         "type": "TV",
         "status": "Current",
         "airing": true,
-        "studio": "Toei Animation",
+        "studio": true,
         "producers": "N/A",
         "total_episodes": "N/A",
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -232,6 +177,62 @@
         "synopsis": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n(Source: Crunchyroll)",
         "ranime": [
             "Dragon Ball Z"
+        ]
+    },
+    {
+        "aid": 5,
+        "name": "Boruto",
+        "jname": "BORUTO -NARUTO THE MOVIE-",
+        "poster": "https://envs.sh/90R.jpg\n, https://envs.sh/903.jpg\n, https://envs.sh/90z.jpg\n",
+        "banner": "https://envs.sh/90C.jpg\n, https://envs.sh/90Y.jpg\n",
+        "cname": "VidHide",
+        "cid": "85202",
+        "let": "B",
+        "trailer": "https://www.youtube.com/embed/p3acMxaM7-g?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/ld-oqpvOBAk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": false,
+        "studio": "Pierrot",
+        "producers": "TOHO, Shueisha",
+        "total_episodes": 293,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 6.4,
+        "imdb_votes": 30727,
+        "synopsis": "Naruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage monument. But this is not his story... A new generation of ninja are ready to take the stage, led by Naruto's own son, Boruto!\n\n(Source: VIZ Media)",
+        "ranime": [
+            "Naruto: Shippuuden",
+            "Boruto: Naruto the Movie",
+            "Boruto: Naruto Next Generations",
+            "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi"
+        ]
+    },
+    {
+        "aid": 4,
+        "name": "One Punch Man Season 3",
+        "jname": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 3",
+        "poster": "https://envs.sh/90l.jpg\n, https://envs.sh/901.jpg\n, https://envs.sh/YCa.jpg\n",
+        "banner": "https://envs.sh/90U.jpg\n, https://envs.sh/904.jpg\n",
+        "cname": "VidHide",
+        "cid": "85203",
+        "let": "O",
+        "trailer": "https://www.youtube.com/embed/h71d0QyZqRE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/h71d0QyZqRE?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Comedy",
+        "type": "TV",
+        "status": "Unreleased",
+        "airing": false,
+        "studio": "J.C.Staff",
+        "producers": "Shueisha",
+        "total_episodes": "N/A",
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.7,
+        "imdb_votes": 196136,
+        "synopsis": "The third season of One Punch Man.",
+        "ranime": [
+            "One Punch Man 2nd Season",
+            "One Punch-Man"
         ]
     }
 ]
