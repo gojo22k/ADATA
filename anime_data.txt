@@ -196,7 +196,7 @@
         "type": "Movie",
         "status": "Finished",
         "airing": false,
-        "studio": "Toei Animation",
+        "studio": false,
         "producers": "N/A",
         "total_episodes": 2,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -206,6 +206,32 @@
         "synopsis": "A series of short promotional episodes recapitulating the Wano arc story.",
         "ranime": [
             "One Piece"
+        ]
+    },
+    {
+        "aid": 8,
+        "name": "Dragon Ball Daima",
+        "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30c0\u30a4\u30de",
+        "poster": "https://envs.sh/3nO.jpg\n, https://envs.sh/3ng.jpg\n, https://envs.sh/3nH.jpg\n",
+        "banner": "https://envs.sh/3na.jpg\n, https://envs.sh/3nf.jpg\n",
+        "cname": "VidHide",
+        "cid": "85201",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": true,
+        "studio": "Toei Animation",
+        "producers": "N/A",
+        "total_episodes": "N/A",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.1,
+        "imdb_votes": 4992,
+        "synopsis": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Dragon Ball Z"
         ]
     }
 ]
