@@ -111,7 +111,7 @@
         "type": "Movie",
         "status": "Finished",
         "airing": false,
-        "studio": "CoMix Wave Films",
+        "studio": false,
         "producers": "Aniplex, TOHO, JR East Marketing & Communications, Kadokawa, voque ting, STORY, Lawson Entertainment",
         "total_episodes": 1,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -123,6 +123,63 @@
             "Shousetsu Suzume no Tojimari",
             "Suzume no Tojimari",
             "Big Mac to, Susume"
+        ]
+    },
+    {
+        "aid": 5,
+        "name": "Spy X Family",
+        "jname": "SPY\u00d7FAMILY",
+        "poster": "https://envs.sh/zLB.jpg\n, https://envs.sh/zL0.jpg\n, https://envs.sh/zLq.jpg\n",
+        "banner": "https://envs.sh/zLW.jpg\n, https://envs.sh/zLS.jpg\n",
+        "cname": "VidHide",
+        "cid": "85198",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/ofXigq9aIpo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/ofXigq9aIpo?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Award Winning, Comedy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": "Wit Studio, CloverWorks",
+        "producers": "TV Tokyo, Shogakukan-Shueisha Productions, TOHO animation, Shueisha",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Buddy Daddies, Hinamatsuri, Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Kumichou Musume to Sewagakari, Princess Principal, Full Metal Panic!, Kobayashi-san Chi no Maid Dragon, Fugou Keiji: Balance:Unlimited, Great Pretender, Usagi Drop, Kimi wa Meido-sama., Kakushigoto, Saiki Kusuo no \u03a8-nan, 4-nin wa Sorezore Uso wo Tsuku, Gakuen Babysitters, Noir, Yozakura-san Chi no Daisakusen, Cowboy Bebop, Amaama to Inazuma, Gokushufudou, Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai., Kotarou wa Hitorigurashi, Barakamon, Yahari Ore no Seishun Love Comedy wa Machigatteiru., Kotoura-san, Hunter x Hunter (2011), Violet Evergarden, Kanojo, Okarishimasu, Katekyou Hitman Reborn!, Koi to Yobu ni wa Kimochi Warui, Gintama, Koroshi Ai, Aishiteruze Baby\u2605\u2605, Hataraku Maou-sama!!, Lycoris Recoil, Vivy: Fluorite Eye's Song, Release the Spyce, Kodomo no Omocha (TV), Keroro Gunsou, 3-gatsu no Lion, Migi to Dali, Kekkon suru tte, Hontou desu ka, Maoujou de Oyasumi, Howl no Ugoku Shiro, Jitsu wa Ore, Saikyou deshita?, Bao Mu, Hakata Tonkotsu Ramens, Monster, Tonikaku Kawaii, R.O.D: Read or Die, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Gakuen Alice, Hataraku Maou-sama!, Mad\u2605Bull 34, Lupin III (2015), Baccano!, Subarashiki Kono Sekai The Animation, Joker Game",
+        "imdb_rating": 8.3,
+        "imdb_votes": 46175,
+        "synopsis": "Everyone has a part of themselves they cannot show to anyone else.\n\nAt a time when all nations of the world were involved in a fierce war of information happening behind closed doors, Ostania and Westalis had been in a state of cold war against one another for decades. The Westalis Intelligence Services' Eastern-Focused Division (WISE) sends their most talented spy, \"Twilight,\" on a top-secret mission to investigate the movements of Donovan Desmond, the chairman of Ostania's National Unity Party, who is threatening peace efforts between the two nations.\n\nThis mission is known as \"Operation Strix.\" It consists of \"putting together a family in one week in order to infiltrate social gatherings organized by the elite school that Desmond's son attends.\"\n\n\"Twilight\" takes on the identity of psychiatrist Loid Forger and starts looking for family members. But Anya, the daughter he adopts, turns out to have the ability to read people's minds, while his wife, Yor, is an assassin! With it being in each of their own interests to keep these facts hidden, they start living together while concealing their true identities from one another.\nWorld peace is now in the hands of this brand-new family as they embark on an adventure full of surprises.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Spy x Family Part 2",
+            "Spy x Family",
+            "Good Day"
+        ]
+    },
+    {
+        "aid": 6,
+        "name": "Apothecary Diaries",
+        "jname": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068 \u7b2c2\u671f",
+        "poster": "https://envs.sh/Y1n.jpg\n, https://envs.sh/slj.jpg\n, https://envs.sh/Y10.jpg\n",
+        "banner": "https://envs.sh/Y1I.jpg\n, https://envs.sh/slc.jpg\n",
+        "cname": "VidHide",
+        "cid": "85199",
+        "let": "A",
+        "trailer": "https://www.youtube.com/embed/oyHqh8ue4zw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/3BYutu3Pf_0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Drama, Mystery",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": "OLM, TOHO animation STUDIO",
+        "producers": "TOHO animation",
+        "total_episodes": 24,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.6,
+        "imdb_votes": 9310,
+        "synopsis": "Maomao lived a peaceful life with her apothecary father. Until one day, she\u2019s sold as a lowly servant to the emperor\u2019s palace. But she wasn\u2019t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she\u2019s making a name for herself solving medical mysteries!\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Kusuriya no Hitorigoto",
+            "Kusuriya no Hitorigoto",
+            "Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou",
+            "Kusuriya no Hitorigoto"
         ]
     }
 ]
