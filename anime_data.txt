@@ -139,7 +139,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": false,
-        "studio": "Wit Studio, CloverWorks",
+        "studio": false,
         "producers": "TV Tokyo, Shogakukan-Shueisha Productions, TOHO animation, Shueisha",
         "total_episodes": 12,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -167,7 +167,7 @@
         "type": "TV",
         "status": "Finished",
         "airing": false,
-        "studio": "OLM, TOHO animation STUDIO",
+        "studio": false,
         "producers": "TOHO animation",
         "total_episodes": 24,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -180,6 +180,32 @@
             "Kusuriya no Hitorigoto",
             "Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou",
             "Kusuriya no Hitorigoto"
+        ]
+    },
+    {
+        "aid": 7,
+        "name": "One Piece Wano Arc",
+        "jname": "ONE PIECE",
+        "poster": "https://envs.sh/90L.jpg\n, https://envs.sh/YCN.jpg\n, https://envs.sh/YK9.jpg\n",
+        "banner": "https://envs.sh/90Z.jpg\n, https://envs.sh/YCH.jpg\n",
+        "cname": "VidHide",
+        "cid": "85200",
+        "let": "O",
+        "trailer": "N/A, https://www.youtube.com/embed/eEApDotghec?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": false,
+        "studio": "Toei Animation",
+        "producers": "N/A",
+        "total_episodes": 2,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": "N/A",
+        "imdb_votes": "N/A",
+        "synopsis": "A series of short promotional episodes recapitulating the Wano arc story.",
+        "ranime": [
+            "One Piece"
         ]
     }
 ]
