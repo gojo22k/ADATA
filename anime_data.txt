@@ -180,35 +180,6 @@
         ]
     },
     {
-        "aid": 5,
-        "name": "Boruto",
-        "jname": "BORUTO -NARUTO THE MOVIE-",
-        "poster": "https://envs.sh/90R.jpg\n, https://envs.sh/903.jpg\n, https://envs.sh/90z.jpg\n",
-        "banner": "https://envs.sh/90C.jpg\n, https://envs.sh/90Y.jpg\n",
-        "cname": "VidHide",
-        "cid": "85202",
-        "let": "B",
-        "trailer": "https://www.youtube.com/embed/p3acMxaM7-g?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/ld-oqpvOBAk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Adventure, Fantasy",
-        "type": "Movie",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "TOHO, Shueisha",
-        "total_episodes": 293,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 6.4,
-        "imdb_votes": 30727,
-        "synopsis": "Naruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage monument. But this is not his story... A new generation of ninja are ready to take the stage, led by Naruto's own son, Boruto!\n\n(Source: VIZ Media)",
-        "ranime": [
-            "Naruto: Shippuuden",
-            "Boruto: Naruto the Movie",
-            "Boruto: Naruto Next Generations",
-            "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi"
-        ]
-    },
-    {
         "aid": 4,
         "name": "One Punch Man Season 3",
         "jname": "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 3",
@@ -249,7 +220,7 @@
         "type": "Movie",
         "status": "Finished",
         "airing": false,
-        "studio": "Kyoto Animation",
+        "studio": false,
         "producers": "Shochiku, Pony Canyon, Kodansha, ABC Animation, Quaras",
         "total_episodes": 1,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -261,6 +232,40 @@
             "Koe no Katachi",
             "Shousetsu Eiga Koe no Katachi",
             "Koe no Katachi Specials"
+        ]
+    },
+    {
+        "aid": 9,
+        "name": "Fairy Tail",
+        "jname": "FAIRY TAIL\uff08\u30d5\u30a7\u30a2\u30ea\u30fc\u30c6\u30a4\u30eb\uff09",
+        "poster": "https://envs.sh/909.jpg\n, https://envs.sh/90r.jpg\n, https://envs.sh/90o.jpg\n",
+        "banner": "https://envs.sh/90s.jpg\n, 404 Client Error: Not Found for url: https://img.youtube.com/vi/hRPHiQKJVk0/maxresdefault.jpg\n",
+        "cname": "VidHide",
+        "cid": "85205",
+        "let": "F",
+        "trailer": "https://www.youtube.com/embed/RAcl2s-T6ik?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/hRPHiQKJVk0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": "Satelight, A-1 Pictures",
+        "producers": "TV Tokyo, Dentsu, Pony Canyon, Kodansha, DAX Production",
+        "total_episodes": 51,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "One Piece, Black Clover, Naruto, Nanatsu no Taizai, Groove Adventure Rave, Soul Eater, Edens Zero, Naruto: Shippuuden, Magi: The Labyrinth of Magic, Ueki no Housoku, Bleach, Katekyou Hitman Reborn!, Hunter x Hunter (2011), InuYasha, Ao no Exorcist, D.Gray-man, Kono Subarashii Sekai ni Shukufuku wo!, Magi: The Kingdom of Magic, Dragon Ball Z, Boku no Hero Academia, Tengen Toppa Gurren Lagann, Dragon Ball, Densetsu no Yuusha no Densetsu, Log Horizon, Slayers, Fullmetal Alchemist: Brotherhood, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Fullmetal Alchemist, Shaman King, Kaze no Stigma, Boku no Hero Academia 2nd Season, Saint Seiya: The Lost Canvas - Meiou Shinwa 2, Bishoujo Senshi Sailor Moon, SKET Dance, Akame ga Kill!, Sword Art Online, Radiant, Fushigi Yuugi, Saint Seiya: The Lost Canvas - Meiou Shinwa, Beelzebub, Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?, Gintama, Kyou kara Maou!, Mashle, Hamatora The Animation, Air Gear, Sousei no Onmyouji, Rainbow: Nisha Rokubou no Shichinin, Bungou Stray Dogs 2nd Season, Re:Zero kara Hajimeru Isekai Seikatsu, Noragami, Ansatsu Kyoushitsu, Shokugeki no Souma, Yume no Crayon Oukoku, Boku no Hero Academia 3rd Season, Fate/Zero, Sonic X, Saint Seiya, Mairimashita! Iruma-kun, Divine Gate, Ouran Koukou Host Club, Zero no Tsukaima, Ragna Crimson, Choujigen Game Neptune The Animation, Nanatsu no Taizai: Imashime no Fukkatsu, Log Horizon 2nd Season, Hunter x Hunter, Yowamushi Pedal, Kekkaishi, Tales of the Abyss, Dragon Quest: Dai no Daibouken (TV), Magic Knight Rayearth, Cardcaptor Sakura, Hyakko, M\u00c4R, Kyou kara Maou! 3rd Series, Tanken Driland, Angel Beats!, Ou Dorobou Jing, Dragon Crisis!, AKB0048, Arcana Famiglia, Ozma, Yuu\u2606Yuu\u2606Hakusho, Shukufuku no Campanella, Pokemon, Kyoukaisenjou no Horizon, Kaitou Joker, Tears to Tiara, Shakugan no Shana III (Final), Higashi no Eden, Konjiki no Gash Bell!!, Dragon Ball Kai, Erementar Gerad, Starry\u2606Sky, Koukyoushihen Eureka Seven, Dragon Ball GT, Shounen Onmyouji, .hack//Roots",
+        "imdb_rating": 7.9,
+        "imdb_votes": 29631,
+        "synopsis": "The final season of Fairy Tail.\n\nFairy Tail has been disbanded. A year later, Lucy comes into contact with Natsu and Happy. The three of them try to find the other former members' whereabouts to reconstruct the guild as they seek the real reason behind the guild's disbandment.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Fairy Tail (2014)",
+            "Fairy Tail",
+            "Fairy Tail OVA",
+            "Fairy Tail Movie 1: Houou no Miko",
+            "Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa",
+            "Fairy Tail x Rave",
+            "Groove Adventure Rave",
+            "Towa no Kizuna",
+            "Fairy Tail x Mameshiba"
         ]
     }
 ]
