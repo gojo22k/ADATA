@@ -1,40 +1,5 @@
 [
     {
-        "aid": 2,
-        "name": "Dragon Ball Super",
-        "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85\uff08\u30b9\u30fc\u30d1\u30fc\uff09",
-        "poster": "https://envs.sh/3S0.jpg\n, https://envs.sh/3Sw.jpg\n, https://envs.sh/3Sb.jpg\n",
-        "banner": "404 Client Error:  for url: https://media.kitsu.app/anime/cover_images/10879/original.png\n, https://envs.sh/3Sq.jpg\n",
-        "cname": "VidHide",
-        "cid": "32138",
-        "let": "D",
-        "trailer": "https://www.youtube.com/embed/nZKs2Sbx4iM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/nZKs2Sbx4iM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Adventure, Comedy, Fantasy",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "Yomiko Advertising, Fuji TV",
-        "total_episodes": 131,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "The God of High School, Boruto: Naruto Next Generations, One Punch Man, Nanatsu no Taizai, Bleach, Dragon Ball Z, Shingeki no Kyojin, Enen no Shouboutai, Baki, Naruto, Feng Yun Jue, Jikuu Tantei Genshi-kun, Bishoujo Senshi Sailor Moon Crystal, One Punch Man 2nd Season, Boku no Hero Academia 4th Season, Saint Seiya, Hunter x Hunter (2011), One Piece",
-        "imdb_rating": 8.3,
-        "imdb_votes": 39026,
-        "synopsis": "Set just after the events of the Buu Saga of Dragon Ball Z, a deadly threat awakens once more. People lived in peace without knowing who the true heroes were during the devastating battle against Majin Buu. The powerful Dragon Balls have prevented any permanent damage, and our heroes also continue to live a normal life. In the far reaches of the universe, however, a powerful being awakens early from his slumber, curious about a prophecy of his defeat.\nJoin Gokuu, Piccolo, Vegeta, Gohan, and the rest of the Dragon Ball crew as they tackle the strongest opponent they have ever faced. Beerus, the god of destruction, now sets his curious sights on Earth. Will the heroes save the day and prevent earth's destruction? Or will the whims of a bored god prove too powerful for the Saiyans? Gokuu faces impossible odds once more and fights for the safety of his loved ones and the planet.",
-        "ranime": [
-            "Dragon Ball Super: Broly",
-            "Dragon Ball Super",
-            "Super Dragon Ball Heroes",
-            "Dragon Ball Z Movie 14: Kami to Kami",
-            "Dragon Ball Z Movie 15: Fukkatsu no \"F\"",
-            "Dragon Ball Z",
-            "Dragon Ball Kai (2014)",
-            "Dr. Slump: Arale-chan",
-            "FNS 27-Jikan TV: Nihon no Rekishi Anime",
-            "Annecy Festival 60th Anniversary PVs"
-        ]
-    },
-    {
         "aid": 1,
         "name": "Naruto",
         "jname": "\u30ca\u30eb\u30c8",
@@ -71,6 +36,41 @@
         ]
     },
     {
+        "aid": 2,
+        "name": "Dragon Ball Super",
+        "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u8d85\uff08\u30b9\u30fc\u30d1\u30fc\uff09",
+        "poster": "https://envs.sh/3S0.jpg\n, https://envs.sh/3Sw.jpg\n, https://envs.sh/3Sb.jpg\n",
+        "banner": "404 Client Error:  for url: https://media.kitsu.app/anime/cover_images/10879/original.png\n, https://envs.sh/3Sq.jpg\n",
+        "cname": "VidHide",
+        "cid": "32138",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/nZKs2Sbx4iM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/nZKs2Sbx4iM?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": false,
+        "producers": "Yomiko Advertising, Fuji TV",
+        "total_episodes": 131,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "The God of High School, Boruto: Naruto Next Generations, One Punch Man, Nanatsu no Taizai, Bleach, Dragon Ball Z, Shingeki no Kyojin, Enen no Shouboutai, Baki, Naruto, Feng Yun Jue, Jikuu Tantei Genshi-kun, Bishoujo Senshi Sailor Moon Crystal, One Punch Man 2nd Season, Boku no Hero Academia 4th Season, Saint Seiya, Hunter x Hunter (2011), One Piece",
+        "imdb_rating": 8.3,
+        "imdb_votes": 39026,
+        "synopsis": "Set just after the events of the Buu Saga of Dragon Ball Z, a deadly threat awakens once more. People lived in peace without knowing who the true heroes were during the devastating battle against Majin Buu. The powerful Dragon Balls have prevented any permanent damage, and our heroes also continue to live a normal life. In the far reaches of the universe, however, a powerful being awakens early from his slumber, curious about a prophecy of his defeat.\nJoin Gokuu, Piccolo, Vegeta, Gohan, and the rest of the Dragon Ball crew as they tackle the strongest opponent they have ever faced. Beerus, the god of destruction, now sets his curious sights on Earth. Will the heroes save the day and prevent earth's destruction? Or will the whims of a bored god prove too powerful for the Saiyans? Gokuu faces impossible odds once more and fights for the safety of his loved ones and the planet.",
+        "ranime": [
+            "Dragon Ball Super: Broly",
+            "Dragon Ball Super",
+            "Super Dragon Ball Heroes",
+            "Dragon Ball Z Movie 14: Kami to Kami",
+            "Dragon Ball Z Movie 15: Fukkatsu no \"F\"",
+            "Dragon Ball Z",
+            "Dragon Ball Kai (2014)",
+            "Dr. Slump: Arale-chan",
+            "FNS 27-Jikan TV: Nihon no Rekishi Anime",
+            "Annecy Festival 60th Anniversary PVs"
+        ]
+    },
+    {
         "aid": 3,
         "name": "Suzume No Tojimari",
         "jname": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
@@ -96,32 +96,6 @@
             "Shousetsu Suzume no Tojimari",
             "Suzume no Tojimari",
             "Big Mac to, Susume"
-        ]
-    },
-    {
-        "aid": 8,
-        "name": "Dragon Ball Daima",
-        "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30c0\u30a4\u30de",
-        "poster": "https://envs.sh/3nO.jpg\n, https://envs.sh/3ng.jpg\n, https://envs.sh/3nH.jpg\n",
-        "banner": "https://envs.sh/3na.jpg\n, https://envs.sh/3nf.jpg\n",
-        "cname": "VidHide",
-        "cid": "85201",
-        "let": "D",
-        "trailer": "https://www.youtube.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action, Adventure, Comedy, Fantasy",
-        "type": "TV",
-        "status": "Current",
-        "airing": true,
-        "studio": true,
-        "producers": "N/A",
-        "total_episodes": "N/A",
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 8.1,
-        "imdb_votes": 4992,
-        "synopsis": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Dragon Ball Z"
         ]
     },
     {
@@ -152,36 +126,6 @@
         ]
     },
     {
-        "aid": 7,
-        "name": "My Hero Academia Season 2",
-        "jname": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2",
-        "poster": "https://envs.sh/YCh.jpg\n, https://envs.sh/3SW.jpg\n, https://envs.sh/3SS.jpg\n",
-        "banner": "https://envs.sh/YCQ.png\n, https://envs.sh/3SB.jpg\n",
-        "cname": "VidHide",
-        "cid": "85374",
-        "let": "M",
-        "trailer": "https://www.youtube.com/embed/9ZIgCYSn3e8?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/HoIOW6no_Ew?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Action",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": "Bones",
-        "producers": "Dentsu, Yomiuri Telecasting, Movic, Sony Music Entertainment, TOHO animation, Shueisha",
-        "total_episodes": 25,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Naruto, Ansatsu Kyoushitsu 2nd Season, One Punch Man, Ansatsu Kyoushitsu, Fairy Tail, Black Clover, Hunter x Hunter (2011), One Punch Man 2nd Season, World Trigger, Ueki no Housoku, Deatte 5-byou de Battle, Mairimashita! Iruma-kun, Made in Abyss, The God of High School, Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou, Pokemon, Haikyuu!!, Baby Steps, Katekyou Hitman Reborn!, Shokugeki no Souma: Ni no Sara, Dragon Ball, Concrete Revolutio: Choujin Gensou - The Last Song, Shokugeki no Souma, Boruto: Naruto Next Generations, Tu Bian Ying Xiong Leaf, Little Witch Academia (TV)",
-        "imdb_rating": 8.2,
-        "imdb_votes": 87690,
-        "synopsis": "Taking off right after the last episode of the first season. The school is temporarily closed due to security. When U.A. restarts, it is announced that the highly anticipated School Sports Festival will soon be taking place. All classes: Hero, Support, General and Business will be participating. Tournaments all around will decide who is the top Hero in training.\n\n(Source: Anime News Network)",
-        "ranime": [
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Hero Note",
-            "Boku no Hero Academia 3rd Season",
-            "Boku no Hero Academia",
-            "Boku no Hero Academia: Training of the Dead"
-        ]
-    },
-    {
         "aid": 5,
         "name": "One Piece East Blue Arc",
         "jname": "\u30ef\u30f3\u30d4\u30fc\u30b9 \u30a8\u30d4\u30bd\u30fc\u30c9\u30aa\u30d6\u6771\u306e\u6d77[\u30a4\u30fc\u30b9\u30c8\u30d6\u30eb\u30fc] ~\u30eb\u30d5\u30a3\u30684\u4eba\u306e\u4ef2\u9593\u306e\u5927\u5192\u967a~",
@@ -195,7 +139,7 @@
         "type": "TV Special",
         "status": "Finished",
         "airing": false,
-        "studio": "Toei Animation",
+        "studio": false,
         "producers": "N/A",
         "total_episodes": 1,
         "pg_rating": "PG-13 - Teens 13 or older",
@@ -205,6 +149,32 @@
         "synopsis": "Bundled with the PSP pirate romance role-playing game One Piece Romance Dawn: Bouken no Yoake (\u30ef\u30f3\u30d4\u30fc\u30b9 \u30ed\u30de\u30f3\u30b9\u30c9\u30fc\u30f3 \u5192\u967a\u306e\u591c\u660e\u3051).\nNote: This game is not based on \"Romance Dawn,\" Oda Eiichirou's prototype manga for what would eventually become One Piece. Instead, the title reflects the fact that the game covers the \"Romance Dawn\" arc of the manga, at the \"dawn\" of pirate Luffy's adventures in the East Blue.\n(Source: ANN)",
         "ranime": [
             "One Piece"
+        ]
+    },
+    {
+        "aid": 8,
+        "name": "Dragon Ball Daima",
+        "jname": "\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb \u30c0\u30a4\u30de",
+        "poster": "https://envs.sh/3nO.jpg\n, https://envs.sh/3ng.jpg\n, https://envs.sh/3nH.jpg\n",
+        "banner": "https://envs.sh/3na.jpg\n, https://envs.sh/3nf.jpg\n",
+        "cname": "VidHide",
+        "cid": "85201",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Adventure, Comedy, Fantasy",
+        "type": "TV",
+        "status": "Current",
+        "airing": true,
+        "studio": true,
+        "producers": "N/A",
+        "total_episodes": "N/A",
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.1,
+        "imdb_votes": 4992,
+        "synopsis": "Goku and company were living peaceful lives when they suddenly turned small due to a conspiracy! When they discover that the reason for this may lie in a world known as the \"Demon Realm\", a mysterious young Majin named Glorio appears before them.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Dragon Ball Z"
         ]
     }
 ]
