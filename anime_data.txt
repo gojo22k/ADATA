@@ -99,35 +99,6 @@
         ]
     },
     {
-        "aid": 6,
-        "name": "Apothecary Diaries",
-        "jname": "\u85ac\u5c4b\u306e\u3072\u3068\u308a\u3054\u3068 \u7b2c2\u671f",
-        "poster": "https://envs.sh/Y1n.jpg\n, https://envs.sh/slj.jpg\n, https://envs.sh/Y10.jpg\n",
-        "banner": "https://envs.sh/Y1I.jpg\n, https://envs.sh/slc.jpg\n",
-        "cname": "VidHide",
-        "cid": "85199",
-        "let": "A",
-        "trailer": "https://www.youtube.com/embed/oyHqh8ue4zw?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/3BYutu3Pf_0?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Drama, Mystery",
-        "type": "TV",
-        "status": "Finished",
-        "airing": false,
-        "studio": false,
-        "producers": "TOHO animation",
-        "total_episodes": 24,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "No similar anime found.",
-        "imdb_rating": 8.6,
-        "imdb_votes": 9310,
-        "synopsis": "Maomao lived a peaceful life with her apothecary father. Until one day, she\u2019s sold as a lowly servant to the emperor\u2019s palace. But she wasn\u2019t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she\u2019s making a name for herself solving medical mysteries!\n\n(Source: Crunchyroll)",
-        "ranime": [
-            "Kusuriya no Hitorigoto",
-            "Kusuriya no Hitorigoto",
-            "Kusuriya no Hitorigoto: Maomao no Koukyuu Nazotoki Techou",
-            "Kusuriya no Hitorigoto"
-        ]
-    },
-    {
         "aid": 7,
         "name": "One Piece Wano Arc",
         "jname": "ONE PIECE",
@@ -238,6 +209,37 @@
             "Groove Adventure Rave",
             "Towa no Kizuna",
             "Fairy Tail x Mameshiba"
+        ]
+    },
+    {
+        "aid": 5,
+        "name": "Jujutsu Kaisin",
+        "jname": "\u546a\u8853\u5efb\u6226",
+        "poster": "https://envs.sh/Y38.jpg\n, https://envs.sh/Y3U.jpg\n, https://envs.sh/Y34.jpg\n",
+        "banner": "https://envs.sh/Y3k.jpg\n, https://envs.sh/Y3l.jpg\n",
+        "cname": "VidHide",
+        "cid": "85362",
+        "let": "J",
+        "trailer": "https://www.youtube.com/embed/VpO6APNqY1c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/4A_X-Dvl0ws?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Action, Award Winning, Supernatural",
+        "type": "TV",
+        "status": "Finished",
+        "airing": false,
+        "studio": "MAPPA",
+        "producers": "Mainichi Broadcasting System, TOHO animation, Shueisha, dugout, Sumzap",
+        "total_episodes": 24,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Kimetsu no Yaiba, Chainsaw Man, Bleach, Naruto, Noragami, Hunter x Hunter (2011), Ao no Exorcist, Naruto: Shippuuden, Boku no Hero Academia, The God of High School, Kiseijuu: Sei no Kakuritsu, Mob Psycho 100, Kemono Jihen, Bungou Stray Dogs, Kyoukai no Kanata, One Punch Man, Soul Eater, Black Clover, Devilman: Crybaby, Yuu\u2606Yuu\u2606Hakusho, Mieruko-chan, Kaijuu 8-gou, Bleach: Sennen Kessen-hen, D.Gray-man, Jigokuraku, Kyokou Suiri, Tokyo Ghoul, Yu\u2606Gi\u2606Oh! Duel Monsters, Beelzebub, JoJo no Kimyou na Bouken (TV), Fullmetal Alchemist: Brotherhood, Shingeki no Kyojin, Noblesse, Enen no Shouboutai, Kimetsu no Yaiba: Yuukaku-hen, Dandadan, Owari no Seraph, Kara no Kyoukai Movie 1: Fukan Fuukei, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze, Boku no Hero Academia 4th Season, Dr. Stone, Sankaku Mado no Sotogawa wa Yoru, Gakkou no Kaidan, Sousei no Onmyouji, Ninja Kamui, Ore dake Level Up na Ken, D_Cide Traumerei the Animation, 86, JoJo no Kimyou na Bouken Part 3: Stardust Crusaders, Fugou Keiji: Balance:Unlimited, Takt Op. Destiny, Mushibugyou, Haikyuu!!, Psycho-Pass, Mob Psycho 100 II, Mononogatari, Boku no Hero Academia 5th Season, Fate/stay night: Unlimited Blade Works, Ao no Exorcist: Kyoto Fujouou-hen, Ushio to Tora (TV), Tenjou Tenge, Kekkai Sensen & Beyond, Kamikaze Kaitou Jeanne, Diamond no Ace, Dorohedoro, Yu\u2606Gi\u2606Oh! Duel Monsters GX, Air Gear, Death Note, Blood Lad, Yu\u2606Gi\u2606Oh!, Subarashiki Kono Sekai The Animation, Mononoke Hime, Tokyo Ravens, Majutsushi Orphen, Dororo, Jibaku Shounen Hanako-kun, High School DxD, Taboo Tattoo, Ga-Rei: Zero, Tokyo Majin Gakuen Kenpuuchou: Tou, Mahou Shoujo Madoka\u2605Magica, Shokugeki no Souma, Yozakura Quartet: Hana no Uta",
+        "imdb_rating": 8.5,
+        "imdb_votes": 140688,
+        "synopsis": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Jujutsu Kaisen 0 Movie",
+            "Jujutsu Kaisen 2nd Season",
+            "Jujutsu Kaisen",
+            "Jujutsu Kaisen 2nd Season Recaps",
+            "Jujutsu Kaisen Official PVs",
+            "Vivid Vice"
         ]
     }
 ]
