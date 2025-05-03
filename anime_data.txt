@@ -1,33 +1,5 @@
 [
     {
-        "aid": 3,
-        "name": "Delicious In Dungeon",
-        "jname": "\u30c0\u30f3\u30b8\u30e7\u30f3\u98ef",
-        "poster": "https://iili.io/2bezyqF.webp, https://iili.io/2bOxJVe.webp, https://iili.io/2bkB0cx.webp",
-        "banner": "https://iili.io/2bORSqP.webp, https://iili.io/2becL4p.webp",
-        "cname": "Filemoon",
-        "cid": "181558",
-        "let": "D",
-        "trailer": "https://www.youtube.com/embed/aXfVHMILKJg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/MUJFsL_rE6E?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Adventure, Comedy, Fantasy, Gourmet",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "N/A",
-        "producers": "Ultra Super Pictures, Good Smile Company, Tencent Japan, Kadokawa",
-        "total_episodes": 24,
-        "pg_rating": "R - 17+ (violence & profanity)",
-        "sanime": "Tondemo Skill de Isekai Hourou Meshi, Sousou no Frieren, Made in Abyss, Toriko, Golden Kamuy, Emiya-san Chi no Kyou no Gohan, Isekai Shokudou, Benriya Saitou-san, Isekai ni Iku, Slayers, Ousama Ranking, Heion Sedai no Idaten-tachi, Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou, Mushoku Tensei: Isekai Ittara Honki Dasu, Fullmetal Alchemist: Brotherhood, Princess Connect! Re:Dive, Nanatsu no Taizai, Kono Sekai wa Fukanzen Sugiru, Kanata no Astra, Kenpuu Denki Berserk",
-        "imdb_rating": 8.0,
-        "imdb_votes": 9020,
-        "synopsis": "Dungeons, dragons...and delicious monster stew!? Adventurers foray into a cursed buried kingdom to save their friend, cooking up a storm along the way.\n\n(Source: Netflix)\n\nNote: A world premiere screening of Episode 1 was shown in the Studio TRIGGER panel at Anime Expo on July 1, 2023.",
-        "ranime": [
-            "Dungeon Meshi 2nd Season",
-            "Dungeon Meshi",
-            "Dungeon Meshi PVs"
-        ]
-    },
-    {
         "aid": 4,
         "name": "Suzume No Tojimari",
         "jname": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
