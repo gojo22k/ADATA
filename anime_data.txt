@@ -1,32 +1,5 @@
 [
     {
-        "aid": 1,
-        "name": "My Unique Skill Makes Me Op Even At Level 1",
-        "jname": "\u30ec\u30d9\u30eb1\u3060\u3051\u3069\u30e6\u30cb\u30fc\u30af\u30b9\u30ad\u30eb\u3067\u6700\u5f37\u3067\u3059",
-        "poster": "https://iili.io/2bkqp6J.webp, https://iili.io/2bOo1Fj.webp",
-        "banner": "https://iili.io/2bk9IXR.webp, https://iili.io/2bOoEcx.webp",
-        "cname": "Filemoon",
-        "cid": "179825",
-        "let": "M",
-        "trailer": "https://www.youtube.com/embed/liWTTxBfIWk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/liWTTxBfIWk?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
-        "genre": "Adventure, Fantasy",
-        "type": "TV",
-        "status": "Finished",
-        "airing": "false",
-        "studio": "N/A",
-        "producers": "Kodansha, Tokyo MX, Amusement Media Academy, Crunchyroll, Production Ace, BS NTV, Kappa Entertainment",
-        "total_episodes": 12,
-        "pg_rating": "PG-13 - Teens 13 or older",
-        "sanime": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka, Tondemo Skill de Isekai Hourou Meshi, Death March kara Hajimaru Isekai Kyousoukyoku, Isekai Meikyuu de Harem wo, Jitsu wa Ore, Saikyou deshita?, Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi, Benriya Saitou-san, Isekai ni Iku, Seirei Gensouki, Hachi-nan tte, Sore wa Nai deshou!, Ore dake Haireru Kakushi Dungeon, Kenja no Deshi wo Nanoru Kenja, Tsuki ga Michibiku Isekai Douchuu, Isekai Yakkyoku",
-        "imdb_rating": "N/A",
-        "imdb_votes": "N/A",
-        "synopsis": "Ryouta Satou gets the surprise of his life when he's suddenly transported into another world and nearly clobbered at the hands of the young, pretty adventurer Emily Brown. This new world revolves around defeating monsters and profiting on whatever they drop\u2014food, money, items, etc. Unfortunately for Ryouta, he has no skills to speak of...until he learns he has the ability to get rare drops! Suddenly his luck turns around...or does it?\n\n(Source: Kodansha USA)",
-        "ranime": [
-            "Level 1 dakedo Unique Skill de Saikyou desu",
-            "Level 1 dakedo Unique Skill de Saikyou desu"
-        ]
-    },
-    {
         "aid": 2,
         "name": "More Than A Married Couple, But Not Lovers",
         "jname": "\u592b\u5a66\u4ee5\u4e0a\u3001\u604b\u4eba\u672a\u6e80\u3002",
