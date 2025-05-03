@@ -6327,5 +6327,33 @@
             "Dungeon Meshi",
             "Dungeon Meshi PVs"
         ]
+    },
+    {
+        "aid": 233,
+        "name": "Suzume No Tojimari",
+        "jname": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
+        "poster": "https://iili.io/3j4qCpS.webp, https://iili.io/3j4qF4f.webp, https://iili.io/3j4fD2R.webp",
+        "banner": "https://iili.io/3j4qoT7.webp, https://iili.io/3j4q9It.webp",
+        "cname": "Filemoon",
+        "cid": "136072",
+        "let": "S",
+        "trailer": "https://www.youtube.com/embed/FVU0zESXS5c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/FVU0zESXS5c?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Supernatural",
+        "type": "Movie",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "CoMix Wave Films",
+        "producers": "Aniplex, TOHO, JR East Marketing & Communications, Kadokawa, voque ting, STORY, Lawson Entertainment",
+        "total_episodes": 1,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "Kimi no Na wa., Tenki no Ko, Sennen Joyuu, Suki demo Kirai na Amanojaku, Sen to Chihiro no Kamikakushi, Toki wo Kakeru Shoujo, Roujin Z, Hoshi wo Ou Kodomo, Kaze no Tani no Nausica\u00e4, Nakitai Watashi wa Neko wo Kaburu, Ame wo Tsugeru Hyouryuu Danchi, Miyori no Mori, Howl no Ugoku Shiro, Natsu e no Tunnel, Sayonara no Deguchi, Hirune Hime: Shiranai Watashi no Monogatari, Rakudai Majo: Fuuka to Yami no Majo, Alice to Therese no Maboroshi Koujou, Paulette no Isu",
+        "imdb_rating": 7.6,
+        "imdb_votes": 53288,
+        "synopsis": "The story follows Suzume, a 17-year-old girl from a quiet Kyushu town who meets a young man looking for a door. They find a door within ruins in the mountain, and Suzume opens it. Soon, more doors begin to open around Japan, bringing disasters from the other side. The film depicts Suzume's liberation and growth, as she closes the doors that are causing disaster.\n\n(Source: Anime News Network)",
+        "ranime": [
+            "Shousetsu Suzume no Tojimari",
+            "Suzume no Tojimari",
+            "Big Mac to, Susume"
+        ]
     }
 ]
