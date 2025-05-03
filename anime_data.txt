@@ -4561,5 +4561,24 @@
             "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season",
             "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2"
         ]
+    },
+    {
+        "aid": 229,
+        "name": "Teogonia",
+        "jname": "\u795e\u7d71\u8a18 (\u30c6\u30aa\u30b4\u30cb\u30a2)",
+        "status": "Current",
+        "airing": "true",
+        "studio": "Asahi Production",
+        "producers": "Tohokushinsha Film Corporation, Hakuhodo DY Music & Pictures, Crunchyroll, WOWMAX, Shufu to Seikatsusha",
+        "total_episodes": 12,
+        "pg_rating": "PG-13 - Teens 13 or older",
+        "sanime": "No similar anime found.",
+        "imdb_rating": 8.2,
+        "imdb_votes": 38,
+        "synopsis": "Humans fight to protect their land from invading demi-human tribes in relentless battles. As his world is engulfed by intense warfare, Kai, a village boy from Lag, joins the fight to defend all he knows. After Kai\u2019s comrades fall one by one and he\u2019s injured, he suddenly recalls memories from another life. A fantasy tale unfolds as a village boy explores a world of magic, mystery, and heroism.\n\n(Source: Crunchyroll)",
+        "ranime": [
+            "Teogonia",
+            "Teogonia"
+        ]
     }
 ]
