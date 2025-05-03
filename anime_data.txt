@@ -6328,5 +6328,33 @@
         "ranime": [
             "Fuufu Ijou, Koibito Miman."
         ]
+    },
+    {
+        "aid": 232,
+        "name": "Delicious In Dungeon",
+        "jname": "\u30c0\u30f3\u30b8\u30e7\u30f3\u98ef",
+        "poster": "https://iili.io/3j43KOX.md.webp, https://iili.io/3j42pWJ.webp, https://iili.io/3j424ix.md.webp",
+        "banner": "https://iili.io/3j43z0l.md.webp, https://iili.io/3j42QHP.md.webp",
+        "cname": "Filemoon",
+        "cid": "181558",
+        "let": "D",
+        "trailer": "https://www.youtube.com/embed/aXfVHMILKJg?enablejsapi=1&wmode=opaque&autoplay=1&loop=1, https://www.youtube.com/embed/MUJFsL_rE6E?enablejsapi=1&wmode=opaque&autoplay=1&loop=1",
+        "genre": "Adventure, Comedy, Fantasy, Gourmet",
+        "type": "TV",
+        "status": "Finished",
+        "airing": "false",
+        "studio": "Trigger",
+        "producers": "Ultra Super Pictures, Good Smile Company, Tencent Japan, Kadokawa",
+        "total_episodes": 24,
+        "pg_rating": "R - 17+ (violence & profanity)",
+        "sanime": "Tondemo Skill de Isekai Hourou Meshi, Sousou no Frieren, Made in Abyss, Toriko, Golden Kamuy, Isekai Shokudou, Emiya-san Chi no Kyou no Gohan, Benriya Saitou-san, Isekai ni Iku, Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou, Slayers, Ousama Ranking, Heion Sedai no Idaten-tachi, Kono Sekai wa Fukanzen Sugiru, Princess Connect! Re:Dive, Kanata no Astra, Fullmetal Alchemist: Brotherhood, Nanatsu no Taizai, Mushoku Tensei: Isekai Ittara Honki Dasu, Kenpuu Denki Berserk",
+        "imdb_rating": 8.0,
+        "imdb_votes": 10457,
+        "synopsis": "Dungeons, dragons...and delicious monster stew!? Adventurers foray into a cursed buried kingdom to save their friend, cooking up a storm along the way.\n\n(Source: Netflix)\n\nNote: A world premiere screening of Episode 1 was shown in the Studio TRIGGER panel at Anime Expo on July 1, 2023.",
+        "ranime": [
+            "Dungeon Meshi 2nd Season",
+            "Dungeon Meshi",
+            "Dungeon Meshi PVs"
+        ]
     }
 ]
