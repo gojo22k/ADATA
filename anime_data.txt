@@ -2007,7 +2007,7 @@
         "name": "The Daily Life Of The Immortal King Season 3",
         "jname": "\u4ed9\u738b\u7684\u65e5\u5e38\u751f\u6d3b \u7b2c\u4e94\u5b63",
         "poster": "https://iili.io/2be0Rsf.webp, https://iili.io/2bkcWDg.webp, https://iili.io/2bOgFJ1.webp",
-        "banner": "",
+        "banner": "https://iili.io/KrRWh0P.webp",
         "cname": "Filemoon",
         "cid": "176974",
         "let": "T",
